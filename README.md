@@ -10,9 +10,12 @@ NOTE1:- Make sure to handle exceptions gracefully.<br>
 NOTE2:- Make sure to write modular code.<br>
 For more info refer to the problem statement document shared to you separately.
 
-## Technology used
+## Technologies used
 - Python
 - unittest - unit testing framework
+
+## What you need to run it
+- [Python3](https://www.python.org/download/releases/3.0/)
 
 ## Before the interview
 Get familiar with the codebase! Make sure you have the necessary dependencies installed, and that you are able to run the tests.
@@ -32,8 +35,8 @@ python -m unittest
 source ./done && deactivate
 ```
 
-## Run the Sample Application
-To understand how this library would be used you can check the `main` method in the `Application.py`. If you want to see the results, run:
+## Run the Application
+To understand how this application would be used you can check the `main` method in the `Application.py`. If you want to see the results, run:
 ```console
 python Application.py
 ```
