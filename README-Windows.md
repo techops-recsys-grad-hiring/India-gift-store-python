@@ -1,6 +1,4 @@
 # Welcome to Gift Store!
-*For Windows - [please refer this](README-Windows.md)*
-
 This is where you can start to get familiar with the problem and what you need to run it.
 This codebase is used during code pairing session for JOI initiative.
 It's focused on identifying code smells, refactoring and testing legacy codebase while promoting conversations.
@@ -24,7 +22,7 @@ Get familiar with the codebase! Make sure you have the necessary dependencies in
 
 ## Setup
 ```console
-source ./start
+call start.bat
 ```
 
 ## Run Tests
@@ -35,7 +33,7 @@ python -m unittest
 
 ## Done
 ```console
-source ./done
+call done.bat
 ```
 
 ## Run the Application
